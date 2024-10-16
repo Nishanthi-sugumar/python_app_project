@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/319c7f50-c02c-42ca-8b84-ff34bcb3b7c6
+
                                                  Expense Management System
 **Description**
 Managing personal or business finances can be overwhelming without the right tools. The Expense Management System simplifies this by allowing users to track their expenses effortlessly. This application provides a seamless way to add, view, and analyze expenses based on date, category, and other filters, ensuring better financial management and decision-making.
