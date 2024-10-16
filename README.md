@@ -4,13 +4,20 @@ https://github.com/user-attachments/assets/319c7f50-c02c-42ca-8b84-ff34bcb3b7c6
 
                                                  Expense Management System
 **Description**
-Managing personal or business finances can be overwhelming without the right tools. The Expense Management System simplifies this by allowing users to track their expenses effortlessly. This application provides a seamless way to add, view, and analyze expenses based on date, category, and other filters, ensuring better financial management and decision-making.
+
+This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+With help of this tracker you can add, update (delete or replace) your expenses on daily basis and can analyze them by category and month to get complete overview of the spending.This application provides a seamless way to add, view, and analyze expenses based on date, category, and other filters, ensuring better financial management and decision-making.
 	
 **Features**
+
 Add Expenses: A straightforward interface to add expenses with details like date, amount, category, and notes.
+
 View Expenses: Filter and view expenses by date range, category, and other criteria.
+
 Analyze Expenses: Visualize and analyze expenses by category and date for better financial insights.
+
 Streamlined Backend: FastAPI backend to handle all database operations and API requests.
+
 Interactive Frontend: A user-friendly Streamlit frontend that allows users to interact with their expense data in real time.
 
 **Technology Stack**
