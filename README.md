@@ -53,10 +53,11 @@ Expense Table: View and filter all expenses in a table format.
 Visualization: Analyze expenses through graphical representations and charts.
 
 **Project Structure**
-frontend/: Contains the Streamlit application code.
 
-backend/: Contains the FastAPI backend server code.
+frontend: Contains the Streamlit application code.
 
-tests/: Contains the test cases for both frontend and backend.
+backend: Contains the FastAPI backend server code.
+
+tests: Contains the test cases for both frontend and backend.
 
 
